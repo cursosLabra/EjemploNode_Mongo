@@ -17,9 +17,9 @@ I have simplified the example using a local MongoDB installation and changing be
 ## Testing the API
 Test your API using [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
 
-URIs: 
-GET http://localhost:3000/api/alumnos
-GET http://localhost:3000/api/alumnos/:id
-POST http://localhost:3000/api/alumnos
-PUT http://localhost:3000/api/alumnos/:id
-DELETE http://localhost:3000/api/alumnos/:id
+    URIs: 
+    GET http://localhost:3000/api/alumnos
+    GET http://localhost:3000/api/alumnos/:id
+    POST http://localhost:3000/api/alumnos
+    PUT http://localhost:3000/api/alumnos/:id
+    DELETE http://localhost:3000/api/alumnos/:id
